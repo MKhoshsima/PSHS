@@ -1,5 +1,6 @@
 # PSHS
 Matlab code of "A descent family of the spectral Hestenes-Stiefel method by considering the quasi-Newton method" 
+
 Authors: Maryam Khoshsimaye-Bargard and Ali Ashrafi
 
 
